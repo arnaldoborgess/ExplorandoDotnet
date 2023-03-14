@@ -1,0 +1,15 @@
+C:\Dev\ExplorandoDotnet\Fila\bin\Debug\net7.0\Fila.exe
+C:\Dev\ExplorandoDotnet\Fila\bin\Debug\net7.0\Fila.deps.json
+C:\Dev\ExplorandoDotnet\Fila\bin\Debug\net7.0\Fila.runtimeconfig.json
+C:\Dev\ExplorandoDotnet\Fila\bin\Debug\net7.0\Fila.dll
+C:\Dev\ExplorandoDotnet\Fila\bin\Debug\net7.0\Fila.pdb
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\Fila.csproj.AssemblyReference.cache
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\Fila.AssemblyInfoInputs.cache
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\Fila.AssemblyInfo.cs
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\Fila.csproj.CoreCompileInputs.cache
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\Fila.dll
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\refint\Fila.dll
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\Fila.pdb
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\Fila.genruntimeconfig.cache
+C:\Dev\ExplorandoDotnet\Fila\obj\Debug\net7.0\ref\Fila.dll
