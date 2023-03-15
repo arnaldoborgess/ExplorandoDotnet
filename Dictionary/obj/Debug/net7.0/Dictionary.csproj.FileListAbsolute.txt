@@ -1,0 +1,15 @@
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\Dictionary.csproj.AssemblyReference.cache
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Dev\ExplorandoDotnet\Dictionary\bin\Debug\net7.0\Dictionary.exe
+C:\Dev\ExplorandoDotnet\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+C:\Dev\ExplorandoDotnet\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+C:\Dev\ExplorandoDotnet\Dictionary\bin\Debug\net7.0\Dictionary.dll
+C:\Dev\ExplorandoDotnet\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\Dictionary.dll
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+C:\Dev\ExplorandoDotnet\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll
