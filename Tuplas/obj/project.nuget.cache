@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "35cRmCbIV1xSLRABsKDbqxhbEpcVsmXO/Z0lC9xE7ee32x0Npgc9f5iVhPvSHk5T+0lo9Rh+sK2fp73+2yf17A==",
+  "dgSpecHash": "goTv0ZlpqyTKf/4PmwRTwCCHtRzW+/bZfSG3ScubdfZgie5pjfPstw31mGlaZySRbgfk+8XJHnAXZt6lgDmTmw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\ExplorandoDotnet\\Tuplas\\Tuplas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/arnaldo/dev/ExplorandoDotnet/Tuplas/Tuplas.csproj",
+  "expectedPackageFiles": [
+    "/home/arnaldo/.nuget/packages/microsoft.netcore.app.ref/7.0.3/microsoft.netcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/arnaldo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/arnaldo/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.3/microsoft.netcore.app.host.linux-x64.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
