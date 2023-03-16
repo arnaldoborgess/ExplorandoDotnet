@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jOv5zJUhsmb7LiXHUC+lPuDHHK+vDn7Btn84gYNsbFVejPq2zUl1h2eOxxDFBhghEKRfDhhqybdc0+t+t7oJiQ==",
+  "success": true,
+  "projectFilePath": "/home/arnaldo/dev/ExplorandoDotnet/IfTernario/IfTernario.csproj",
+  "expectedPackageFiles": [
+    "/home/arnaldo/.nuget/packages/microsoft.netcore.app.ref/7.0.3/microsoft.netcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/arnaldo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/arnaldo/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.3/microsoft.netcore.app.host.linux-x64.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
