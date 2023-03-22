@@ -1,0 +1,17 @@
+C:\Dev\ExplorandoDotnet\Nuget\bin\Debug\net7.0\Nuget.exe
+C:\Dev\ExplorandoDotnet\Nuget\bin\Debug\net7.0\Nuget.deps.json
+C:\Dev\ExplorandoDotnet\Nuget\bin\Debug\net7.0\Nuget.runtimeconfig.json
+C:\Dev\ExplorandoDotnet\Nuget\bin\Debug\net7.0\Nuget.dll
+C:\Dev\ExplorandoDotnet\Nuget\bin\Debug\net7.0\Nuget.pdb
+C:\Dev\ExplorandoDotnet\Nuget\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\Nuget.csproj.AssemblyReference.cache
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\Nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\Nuget.AssemblyInfoInputs.cache
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\Nuget.AssemblyInfo.cs
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\Nuget.csproj.CoreCompileInputs.cache
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\Nuget.csproj.CopyComplete
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\Nuget.dll
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\refint\Nuget.dll
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\Nuget.pdb
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\Nuget.genruntimeconfig.cache
+C:\Dev\ExplorandoDotnet\Nuget\obj\Debug\net7.0\ref\Nuget.dll
