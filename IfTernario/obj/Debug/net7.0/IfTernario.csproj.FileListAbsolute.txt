@@ -1,0 +1,15 @@
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/bin/Debug/net7.0/IfTernario
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/bin/Debug/net7.0/IfTernario.deps.json
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/bin/Debug/net7.0/IfTernario.runtimeconfig.json
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/bin/Debug/net7.0/IfTernario.dll
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/bin/Debug/net7.0/IfTernario.pdb
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/IfTernario.csproj.AssemblyReference.cache
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/IfTernario.GeneratedMSBuildEditorConfig.editorconfig
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/IfTernario.AssemblyInfoInputs.cache
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/IfTernario.AssemblyInfo.cs
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/IfTernario.csproj.CoreCompileInputs.cache
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/IfTernario.dll
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/refint/IfTernario.dll
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/IfTernario.pdb
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/IfTernario.genruntimeconfig.cache
+/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/Debug/net7.0/ref/IfTernario.dll

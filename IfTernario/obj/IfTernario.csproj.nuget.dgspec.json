@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/arnaldo/dev/ExplorandoDotnet/Tuplas/Tuplas.csproj": {}
+    "/home/arnaldo/dev/ExplorandoDotnet/IfTernario/IfTernario.csproj": {}
   },
   "projects": {
-    "/home/arnaldo/dev/ExplorandoDotnet/Tuplas/Tuplas.csproj": {
+    "/home/arnaldo/dev/ExplorandoDotnet/IfTernario/IfTernario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arnaldo/dev/ExplorandoDotnet/Tuplas/Tuplas.csproj",
-        "projectName": "Tuplas",
-        "projectPath": "/home/arnaldo/dev/ExplorandoDotnet/Tuplas/Tuplas.csproj",
+        "projectUniqueName": "/home/arnaldo/dev/ExplorandoDotnet/IfTernario/IfTernario.csproj",
+        "projectName": "IfTernario",
+        "projectPath": "/home/arnaldo/dev/ExplorandoDotnet/IfTernario/IfTernario.csproj",
         "packagesPath": "/home/arnaldo/.nuget/packages/",
-        "outputPath": "/home/arnaldo/dev/ExplorandoDotnet/Tuplas/obj/",
+        "outputPath": "/home/arnaldo/dev/ExplorandoDotnet/IfTernario/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/arnaldo/.nuget/NuGet/NuGet.Config"

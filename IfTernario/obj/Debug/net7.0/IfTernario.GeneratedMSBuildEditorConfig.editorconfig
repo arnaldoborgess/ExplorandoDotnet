@@ -7,9 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Tuplas
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Dev\ExplorandoDotnet\Tuplas\
-=======
-build_property.ProjectDir = /home/arnaldo/dev/ExplorandoDotnet/Tuplas/
->>>>>>> 3c28675d2d2a965c343c90b02734d181a3182d5b
+build_property.RootNamespace = IfTernario
+build_property.ProjectDir = /home/arnaldo/dev/ExplorandoDotnet/IfTernario/

@@ -21,12 +21,12 @@ System.Console.WriteLine($"Altura: {tupla.Item4}");
 
 LeituraArquivo arquivo = new LeituraArquivo();
 
-var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivo/arquivoLeitura.txt");
+var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivo/arquivoLeitura.txt");
 
 
 if (sucesso)
 {
-    System.Console.WriteLine("Quantidade linhas do arquivo: " + quantidadeLinhas);
+    // System.Console.WriteLine("Quantidade linhas do arquivo: " + quantidadeLinhas);
     foreach (string linha in linhasArquivo)
     {
         System.Console.WriteLine(linha);
