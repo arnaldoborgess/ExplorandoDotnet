@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQ+nJLbXS2bSumkFI63VCU4Zg2utVId0rwc40SBwXQonnawlYk/9gbjEfdY7dqenw1OQmI2gT4urT0NZagVASA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\ExplorandoDotnet\\DeseralizarObjeto\\DeseralizarObjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arnal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

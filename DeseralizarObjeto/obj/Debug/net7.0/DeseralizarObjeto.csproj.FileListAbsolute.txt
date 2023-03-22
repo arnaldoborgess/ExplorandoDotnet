@@ -1,0 +1,17 @@
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\DeseralizarObjeto.csproj.AssemblyReference.cache
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\DeseralizarObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\DeseralizarObjeto.AssemblyInfoInputs.cache
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\DeseralizarObjeto.AssemblyInfo.cs
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\DeseralizarObjeto.csproj.CoreCompileInputs.cache
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\bin\Debug\net7.0\DeseralizarObjeto.exe
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\bin\Debug\net7.0\DeseralizarObjeto.deps.json
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\bin\Debug\net7.0\DeseralizarObjeto.runtimeconfig.json
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\bin\Debug\net7.0\DeseralizarObjeto.dll
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\bin\Debug\net7.0\DeseralizarObjeto.pdb
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\DeseralizarObjeto.csproj.CopyComplete
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\DeseralizarObjeto.dll
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\refint\DeseralizarObjeto.dll
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\DeseralizarObjeto.pdb
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\DeseralizarObjeto.genruntimeconfig.cache
+C:\Dev\ExplorandoDotnet\DeseralizarObjeto\obj\Debug\net7.0\ref\DeseralizarObjeto.dll
