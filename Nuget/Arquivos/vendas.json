@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Material de Escritório",
+    "Preco": 25.00,
+    "DataVenda": "2023-03-22T15:51:28.6736202-03:00"
+  },
+  {
+    "Id": 1,
+    "Produto": "Licença de Software",
+    "Preco": 110.00,
+    "DataVenda": "2023-03-22T15:51:28.6736202-03:00"
+  }
+]
+
+// ISO 8601
