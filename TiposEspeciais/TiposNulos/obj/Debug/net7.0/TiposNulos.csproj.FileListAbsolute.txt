@@ -1,0 +1,15 @@
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\bin\Debug\net7.0\TiposNulos.exe
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\bin\Debug\net7.0\TiposNulos.deps.json
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\bin\Debug\net7.0\TiposNulos.runtimeconfig.json
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\bin\Debug\net7.0\TiposNulos.dll
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\bin\Debug\net7.0\TiposNulos.pdb
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.csproj.AssemblyReference.cache
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.AssemblyInfoInputs.cache
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.AssemblyInfo.cs
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.csproj.CoreCompileInputs.cache
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.dll
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\refint\TiposNulos.dll
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.pdb
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.genruntimeconfig.cache
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\ref\TiposNulos.dll
