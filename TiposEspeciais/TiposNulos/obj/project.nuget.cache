@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rSR5m19w9G5vYr1ivH7SBY2K6p04j9EtHucWQ5k4e2/AaEaKYpOzXhzLfXyfphWpMpQExcbBlNLaSKABKhOhTA==",
+  "dgSpecHash": "Sjp0VuflpQIS0W7hW6meXxTCndc/ZFY0zSfISsybA2je2rYHgwMiR92fCroNN7TpiMTWNJVSwc3aFUCzt7U4LQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\ExplorandoDotnet\\TiposEspeciais\\TiposNulos\\TiposNulos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\arnal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

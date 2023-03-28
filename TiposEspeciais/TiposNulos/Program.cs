@@ -1,11 +1,29 @@
-﻿bool? desejaReceberEmail = null;
+﻿using Newtonsoft.Json;
+using TiposNulos.Models;
 
-if (desejaReceberEmail.HasValue && desejaReceberEmail.Value) // hasvalue ver se é diferente de nulo Value é o valor da variável.
-// Se não quiser usar o hasvalue != null
+string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+List<Vendas> listaVenda = JsonConvert.DeserializeObject<List<Vendas>>(conteudoArquivo);
+
+foreach (Vendas venda in listaVenda)
 {
-    System.Console.WriteLine("O usuário optou por receber e-mail.");
+    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, " +
+                      $"Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/YYYY HH:mm ")}" +
+                      $"{(venda.Desconto.HasValue ? $"Desconto de: {venda.Desconto}" : "")}");
 }
-else
-{
-    System.Console.WriteLine("O usuário não respondeu ou optou por não receber.");
-}
+
+
+
+// bool? desejaReceberEmail = null;
+
+// if (desejaReceberEmail.HasValue && desejaReceberEmail.Value) // hasvalue ver se é diferente de nulo Value é o valor da variável.
+// // Se não quiser usar o hasvalue != null
+// {
+//     System.Console.WriteLine("O usuário optou por receber e-mail.");
+// }
+// else
+// {
+//     System.Console.WriteLine("O usuário não respondeu ou optou por não receber.");
+// }
+
+

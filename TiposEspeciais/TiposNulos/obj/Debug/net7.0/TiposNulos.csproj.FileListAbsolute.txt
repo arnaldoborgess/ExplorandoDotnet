@@ -13,3 +13,5 @@ C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\refint\TiposN
 C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.pdb
 C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.genruntimeconfig.cache
 C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\ref\TiposNulos.dll
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\dev\ExplorandoDotnet\TiposEspeciais\TiposNulos\obj\Debug\net7.0\TiposNulos.csproj.CopyComplete
