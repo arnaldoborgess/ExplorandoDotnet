@@ -5,12 +5,23 @@ string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
 
 List<Vendas> listaVenda = JsonConvert.DeserializeObject<List<Vendas>>(conteudoArquivo);
 
-foreach (Vendas venda in listaVenda)
+var listaAnonimo = listaVenda.Select(x => new { x.Produto, x.Preco});
+
+foreach (var venda in listaAnonimo)
 {
-    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, " +
-                      $"Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/YYYY HH:mm ")}" +
-                      $"{(venda.Desconto.HasValue ? $"Desconto de: {venda.Desconto}" : "")}");
+    System.Console.WriteLine($"Produto: {venda.Produto}, Preço: {venda.Preco}");
 }
+
+
+
+
+
+// foreach (Vendas venda in listaVenda)
+// {
+//     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, " +
+//                       $"Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/YYYY HH:mm ")}" +
+//                       $"{(venda.Desconto.HasValue ? $"Desconto de: {venda.Desconto}" : "")}");
+// }
 
 
 
