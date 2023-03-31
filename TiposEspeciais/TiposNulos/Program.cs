@@ -1,20 +1,50 @@
 ﻿using Newtonsoft.Json;
 using TiposNulos.Models;
 
-string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
 
-List<Vendas> listaVenda = JsonConvert.DeserializeObject<List<Vendas>>(conteudoArquivo);
+// CLASSE GENÉRICA
 
-var listaAnonimo = listaVenda.Select(x => new { x.Produto, x.Preco});
+// Inteiro
 
-foreach (var venda in listaAnonimo)
-{
-    System.Console.WriteLine($"Produto: {venda.Produto}, Preço: {venda.Preco}");
-}
+MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+arrayInteiro.AdicionarElementoArray(30);
+
+System.Console.WriteLine(arrayInteiro[0]);
+
+// String
+
+MeuArray<string> arrayString = new MeuArray<string>();
+
+arrayString.AdicionarElementoArray("Teste");
+
+System.Console.WriteLine(arrayString[0]);
+
+// Booleano
+
+MeuArray<bool> arrayBool = new MeuArray<bool>();
+
+arrayBool.AdicionarElementoArray(true);
+
+System.Console.WriteLine(true);
+
+
+// // TIPOS ANÔNIMOS
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Vendas> listaVenda = JsonConvert.DeserializeObject<List<Vendas>>(conteudoArquivo);
+
+// var listaAnonimo = listaVenda.Select(x => new { x.Produto, x.Preco});
+
+// foreach (var venda in listaAnonimo)
+// {
+//     System.Console.WriteLine($"Produto: {venda.Produto}, Preço: {venda.Preco}");
+// }
 
 
 
-
+// TIPO NULO
 
 // foreach (Vendas venda in listaVenda)
 // {
