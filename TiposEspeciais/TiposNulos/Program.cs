@@ -1,32 +1,56 @@
 ﻿using Newtonsoft.Json;
 using TiposNulos.Models;
 
+// Método de Extenção
 
-// CLASSE GENÉRICA
+int numero = 25;
+bool par = false;
 
-// Inteiro
+par = numero.EhPar();
 
-MeuArray<int> arrayInteiro = new MeuArray<int>();
+string mensagem = "O número " + numero + " " + "é " + (par ? "par" : "impar");
 
-arrayInteiro.AdicionarElementoArray(30);
+System.Console.WriteLine(mensagem);
 
-System.Console.WriteLine(arrayInteiro[0]);
 
-// String
 
-MeuArray<string> arrayString = new MeuArray<string>();
 
-arrayString.AdicionarElementoArray("Teste");
 
-System.Console.WriteLine(arrayString[0]);
 
-// Booleano
 
-MeuArray<bool> arrayBool = new MeuArray<bool>();
 
-arrayBool.AdicionarElementoArray(true);
 
-System.Console.WriteLine(true);
+
+
+
+
+
+
+// // CLASSE GENÉRICA
+
+// // Inteiro
+
+// MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+// arrayInteiro.AdicionarElementoArray(30);
+
+// System.Console.WriteLine(arrayInteiro[0]);
+
+// // String
+
+// MeuArray<string> arrayString = new MeuArray<string>();
+
+// arrayString.AdicionarElementoArray("Teste");
+
+// System.Console.WriteLine(arrayString[0]);
+
+// // Booleano
+
+// MeuArray<bool> arrayBool = new MeuArray<bool>();
+
+// arrayBool.AdicionarElementoArray(true);
+
+// System.Console.WriteLine(true);
 
 
 // // TIPOS ANÔNIMOS
